@@ -1,14 +1,14 @@
 Word Gen
 ========
 ---
-* ###version: 1.0
-* ###created: July 10th 2017
-* ###author: Patrick Simonian
-* ###abstract: This small node program will generate a line-break spaced list of words generated from a seeded list of words and delimeters between the words. 
+* version: 1.0
+* created: July 10th 2017
+* author: Patrick Simonian
+* abstract: This small node program will generate a line-break spaced list of words generated from a seeded list of words and delimeters between the words. 
 
 ---
-##To Use
-
+To Use
+======
 Pass in your desired args into constructor and run program
 with ***node name_gen.js***
 
